@@ -1,25 +1,78 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
+# Hi, I'm Abhinav Kumar
 
- 
-<h3 align="center">A passionate Web developer and UI/UX Developer from India</h3>
+Computer Science Engineer interested in software engineering, cloud computing, and open-source development.
 
-- 🌱 I’m currently learning **XR designing , React**
+I'm currently focused on building web applications, strengthening my backend skills, learning cloud technologies, and understanding system design.
 
-- 👯 I’m looking to collaborate on **Web development Project**
+## Current Focus
 
-- 🤝 I’m looking for help with **React**
+* Full-Stack Web Development
+* Cloud Engineering (AWS)
+* System Design
+* Open Source
+* Data Structures & Algorithms
 
-- 💬 Ask me about **Web Development**
+## Tech Stack
 
-- 📫 How to reach me **abhinav.kumar9888@gmail.com**
+**Languages**
 
-- ⚡ Fun fact **I Think I am hard working**
+* JavaScript
+* TypeScript
+* Python
+* C++
+* HTML
+* CSS
+* SQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhinav-kumar-796932280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-kumar-796932280" height="30" width="40" /></a>
-<a href="https://instagram.com/abhinavldhwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinavldhwala" height="30" width="40" /></a>
-</p>
+**Frontend**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+* React
+* Next.js
+* Tailwind CSS
+* Bootstrap
+
+**Backend**
+
+* Node.js
+
+**Databases**
+
+* MongoDB
+* MySQL
+* Supabase
+
+**Tools**
+
+* Git
+* GitHub
+* Docker *(Learning)*
+* AWS *(Learning)*
+* Figma
+
+## Selected Projects
+
+### Internship Doctor
+
+A platform that helps students improve resumes, portfolios, GitHub profiles, LinkedIn profiles, and internship readiness.
+
+### KrishiVerse
+
+A smart agriculture platform focused on helping farmers through technology-driven solutions.
+
+### Event Management System
+
+A full-stack application for creating, managing, and discovering events.
+
+### Portfolio
+
+A personal portfolio showcasing projects, technical skills, and experience.
+
+## Open Source
+
+I'm interested in contributing to open-source projects by improving documentation, fixing bugs, and building useful features while learning from experienced maintainers.
+
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/abhinav-kumar-796932280/
+* Portfolio: abhinavportfolioo.netlify.app
+* Email: [abhinav.kumar9888@gmail.com](mailto:abhinav.kumar9888@gmail.com)
